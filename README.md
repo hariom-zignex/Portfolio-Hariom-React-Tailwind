@@ -26,5 +26,5 @@ I would like to learn advanced tech skills and libraries like three.js which wil
 
 ### Author
 
-LinkedIn - [Mihir Chavan](https://www.linkedin.com/in/hariom-mewada-799207193/)
-Github - [@mihirc0111](https://github.com/hariom575)
+LinkedIn - [Hariom Mewada](https://www.linkedin.com/in/hariom-mewada-799207193/)
+Github - [@hariom575](https://github.com/hariom575)
