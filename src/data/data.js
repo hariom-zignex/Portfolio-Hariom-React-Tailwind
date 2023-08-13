@@ -33,7 +33,7 @@ export const featuresData = [
     id: 5,
     icon: <MdAnalytics />,
     title: "Competetive Programing and Data Structures and Algorithms",
-    des: "",
+    des: "Solved 1500+ Programming and Algorithm on various coding platform.",
   },
   {
     id: 6,
