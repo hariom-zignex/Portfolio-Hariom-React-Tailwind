@@ -26,7 +26,7 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-base font-bodyFont leading-6 tracking-wide">
-        "I am a passionate Full Stack developer using Spring Boot,Django and React and machine learning enthusiast. With a strong foundation in web development and a keen eye for data, I create innovative solutions that bridge technology and user experience.I am Competitive Programmer with keen interest in Data Structure and Algorithms and various field of Computer Science Engineering."
+        "I am a passionate Full Stack developer using Spring Boot,Django and React and Data Structure and Algorithm enthusiast. With a strong foundation in web development and a keen eye for data, I create innovative solutions that bridge technology and user experience.I am Competitive Programmer with keen interest in Data Structure and Algorithms and various field of Computer Science Engineering."
         </p>
       </div>
      {/* Media */}
